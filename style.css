@@ -19,8 +19,12 @@
 /* add your css here, feel free to use comments and order them logically for better readability */
 
 	body {
-   background-color: #0074E4;
+ body {
+   background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/moroccan-flower-dark.png)
 }
-{
-height 300px
+
+body{
+   text-align: center;
+  color:white
+}
 
